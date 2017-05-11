@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Tahoma'
 }
 
 .App-logo {
@@ -17,6 +18,15 @@
 
 .App-intro {
   font-size: large;
+}
+.content {
+  display: inline-block;
+  background: #E4E7E8;
+  padding: 10px 12px; 
+  border-radius: 18px; 
+  margin-left: 10px;
+  min-width: 10px;
+  color: #36393C;
 }
 
 @keyframes App-logo-spin {
